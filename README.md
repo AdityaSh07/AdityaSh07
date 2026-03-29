@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Sharma 👋
 
-### Computer Science Undergraduate | AI/ML | RAG & Agentic AI Developer
+### Computer Science & Engineering Undergraduate | AI/ML | RAG & Agentic AI Developer
 
 I am a Computer Science undergraduate currently in pre-final year focused on building intelligent, scalable systems using **Machine Learning**, **NLP**, and **Retrieval-Augmented Generation (RAG)**. I specialize in developing AI-powered backends and agentic workflows using modern frameworks.
 
@@ -26,7 +26,7 @@ I am a Computer Science undergraduate currently in pre-final year focused on bui
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![LangSmith](https://docs.smith.langchain.com/images/langsmith-logo.png)
 ---
 
 ### 🧠 What I’m Working On
