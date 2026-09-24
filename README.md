@@ -35,9 +35,3 @@ I am a Computer Science undergraduate currently in pre-final year focused on bui
 * **RAG Optimization:** Enhancing retrieval efficiency and reducing latency in production-grade RAG pipelines.
 * **Scalable APIs:** Deploying AI systems as robust, scalable backends using **FastAPI** and **Docker**.
 * **Current Project:** Developing an automated research agent with human-in-the-loop editing and image generation.
-
----
-
-### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-a55a322a0/)
